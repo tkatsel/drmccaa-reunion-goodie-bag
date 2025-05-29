@@ -5,4 +5,4 @@ multilingual = false
 src = "src"
 title = "DRMCCAA Reunion goodie bag 2025"
 [output.html]
-site-url = "https://tkatsel.github.io/drmccaa-reunion-goodie-bag/"
+site-url = "/drmccaa-reunion-goodie-bag/"
